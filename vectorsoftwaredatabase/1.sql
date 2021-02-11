@@ -1,0 +1,1 @@
+select * from myshop.products where ProductName LIKE 'c%';

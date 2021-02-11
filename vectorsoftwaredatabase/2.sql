@@ -1,0 +1,1 @@
+select ProductName, MIN(price) as Min_price from myshop.products;
